@@ -33,11 +33,11 @@ Menu:
 ```
 ## Usage
 
-![Generating QR](images/gen_qr.png)
+![Generating QR](assets/gen_qr.png)
 
-![See History](images/history.png)
+![See History](assets/history.png)
 
-![Update Store Data](images/data_update.png)
+![Update Store Data](assets/data_update.pngassets
 
 ## Files
 
