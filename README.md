@@ -3,8 +3,8 @@
 CLI tool to generate UPI QR codes and keep track of payment history.
 
 ## Features
-- Generate UPI QR codes (terminal ASCII output)
-- 
+- Generate UPI QR codes (terminal output)
+- Store name & UPI ID is saved and can be changed
 - Payment history saved using CSV file
 
 ## Setup
@@ -19,9 +19,9 @@ pip install qrcode
 ```bash
 python main.py
 ```
-
+To run on linux
 ```bash
-python3 main.py (To run on linux)
+python3 main.py
 ```
 
 Menu:
