@@ -31,6 +31,13 @@ Menu:
 [3] Update store (VPA + name)
 [4] Exit
 ```
+## Usage
+
+![Generating QR](images/gen_qr.png)
+
+![See History](images/history.png)
+
+![Update Store Data](images/data_update.png)
 
 ## Files
 
