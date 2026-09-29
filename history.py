@@ -3,7 +3,7 @@ import os
 
 HISTORY = "payments.csv"
 
-def show_history(): # Checks if history file exists or not
+def view_history(): # Checks if history file exists or not
     if not os.path.exists(HISTORY):
         print("No payments made yet.")
         return
