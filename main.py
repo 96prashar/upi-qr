@@ -31,7 +31,7 @@ while True: # Showing menu with four choices
         generate(store[0], store[1], amount, note, ref) # Generating QR code
 
     elif choice == "2":
-        show_history() # Showing history
+        view_history() # Showing history
 
     elif choice == "3":
         if store:
@@ -43,7 +43,7 @@ while True: # Showing menu with four choices
         name = input("Store name: ")
         save_store(vpa, name)
         store = [vpa, name]
-        print("Updated data.")
+        print("Data updated.")
 
     elif choice == "4":
         break # If user exits
