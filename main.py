@@ -1,7 +1,7 @@
 from store import load_store, save_store # To load & save store details
 from qr_gen import generate # To generate QR codes
 from history import view_history # To see history
-from validator import valid_vpa, valid_amount # To check if VPA and amount are valid or not
+from validator import valid_vpa, valid_amount # To check if VPA & amount are valid or not
 
 store = load_store()
 
